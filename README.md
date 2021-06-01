@@ -1,0 +1,5 @@
+- 👋 Hi, My Name is David Castro
+- 👀 I’m interested in Techonology, Web Development, Software Development, Best Practices.
+- 🌱 I’m currently learning Azure!
+- 💞️ I’m looking to collaborate on US Company, full remote from México.
+- 📫 How to reach me here: www.linkedin.com/in/dcastro-software-engineer
